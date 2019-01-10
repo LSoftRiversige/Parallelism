@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Text;
 using System.Linq;
 
-namespace ConsoleApp1
+namespace ParallelismRecearch
 {
     public static class SpeedComparator
     {

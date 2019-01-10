@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 using Xunit;
-using ConsoleApp1;
+using ParallelismRecearch;
 using System.Linq;
 
-namespace ConsoleApp1
+namespace ParallelismRecearch
 {
     public class ThreadArrayTests
     {

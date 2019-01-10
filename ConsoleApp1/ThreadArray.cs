@@ -4,7 +4,7 @@ using System.Text;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ParallelismRecearch
 {
 
     public delegate int Calclualator<T>(T[] source, int startIndex, int endIndex);
